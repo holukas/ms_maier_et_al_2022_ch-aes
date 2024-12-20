@@ -1,0 +1,28 @@
+TIMESTAMP	Timestamp
+TA		Air temperature
+RH		Relative humidity
+PA		Atmospheric pressure
+Rg		Global radiation
+TS_0.05		Soil temperature 0.05 cm
+TS_0.15		Soil temperature 0.15 cm
+TS_0.30		Soil temperature 0.30 cm
+SWC_0.05	Soil water content 0.05 cm
+SWC_0.15	Soil water content 0.15 cm
+SWC_0.30	Soil water content 0.30 cm
+PREC		Precipitation
+VPD		Vapor pressure deficit
+NEE		Net ecosystem exchange (NEE_U50_f)
+GPP		Gross primary production (GPP_U50_f)
+Reco		Ecosystem respiration
+CH4_flag01	CH4 flux without flag 2
+CH4_flag0	CH4 flux with flag 0 only
+CH4_flag0_ustar	CH4 flux with flag 0 and u* applied (0.07)
+N2O_flag01	N2O flux without flag 2
+N2O_flag0	N2O flux with flag 0 only
+N2O_flag0_ustar	N2O flux with flag 0 and u* applied (0.07)
+Nmin		Mineral fertilizer application (22.05.2020)
+Norg		Organic fertilizer application (20.10.2020)
+Nfert		Combined column fertilizer application
+herb		Herbicide and Insecticide application (both on 22.05.2020)
+harvest		Harvest (15.09. + 16.09.2020, 24h)
+soil		Soil preparation (21.10.2020)
